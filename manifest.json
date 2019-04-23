@@ -1,0 +1,8 @@
+{
+  "short_name": "State of Mossland",
+  "name": "All about the state of mossland",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
